@@ -1,0 +1,8 @@
+{
+    "name": "myproject-dc",
+    "dockerComposeFile": [
+        "../docker-compose.yml"
+    ],
+    "service": "myproject",
+    "workspaceFolder": "/"
+}
